@@ -67,9 +67,8 @@ pip install -r requirements.txt
 
 Watch a demonstration of the DisasterBot in action! The video shows the robot navigating the room, detecting obstacles, and rescuing a survivor.
 
-[![DisasterBot Demo](https://img.youtube.com/vi/example_thumbnail.jpg)](videos/example.mp4)
-
-> Click [here](videos/example.mp4) to watch the full video.
+>
+> [Download DisasterBot Demo Video](https://github.com/johnmcginnes168/Disaster-Relief_Robot/raw/main/videos/example.mp4)
 
 ## Python Code
 
